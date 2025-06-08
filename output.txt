@@ -1,0 +1,9 @@
+Q: How to book a meeting room?
+A: All employees must book meeting rooms through the system, selecting the date and time at least 24 hours in advance.  Maximum booking time is 2 hours.
+
+Q: Can I book meeting room A at 10:00 AM tomorrow?
+A: Time slot 10:00 AM is booked, Suggested alternative times: 11:00 AM or 3:00 PM
+
+Q: Is 11:00 AM available?
+A: Time slot 11:00 AM is available
+
